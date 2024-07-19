@@ -43,7 +43,7 @@ Day3-4. 건강검진, 개인위생
 대변을 보다 !move one's bowels
 내시경 검사를 받다 !get an endoscopy
 수면 마취를 하다 !put someone under
-검토하다 !examin
+검토하다 !examine
 시험/검사 결과를 받다 !receive test results
 고혈압 !high blood pressure
 건강증명서, 진단 !clean bill of health
