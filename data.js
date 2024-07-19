@@ -124,7 +124,7 @@ Day7-8. 시력, 허리통증
 측만증 !scoliosis
 비정상적인 방향으로 휘다 !curve the wrong way
 닳다 !wear out
-디스크 증세 !herminated disc
+디스크 증세 !herniated disc
 심한 통증 !severe pain
 수술을 필요로 하다 !require surgery
 
