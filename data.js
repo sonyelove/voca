@@ -167,4 +167,40 @@ Day9-10. 어깨결림, 암
 생활 습관 !lifestyle habits
 유발 요인 !trigger
 
+Day11. 대중교통
+대중교통 ! public transportation
+~이라 해도 과언이 아니다 ! it's not a stretch to say (it's not too much to say)
+수도권 ! capital area
+세계 최고 수준 ! world class
+길을 찾아가다 ! find one's way
+최고 수준의 ! top-notch
+색깔 별로 구분된 ! color-coded
+도심지역 ! downtown area
+시간표를 확인하다 ! check the timetables
+실시간으로 ! in real time
+알림판 ! notice board
+디지털 화면 ! digital display
+전국적으로 ! on a national level (=nationally)
+초고속 열차 ! bullet train
+국내 항공편 ! domestic flight
+타도시 ! different city
+이동수단 ! means of transportation
+
+Day12. 지하철
+~의 모범 사례다 ! be a model of
+대중교통 ! public transportation
+편리한 ! convenient
+가격이 저렴한 ! affordable
+다방면으로 우수한 것/사람 ! the full package
+처음으로 해보는 ! first-time
+잘 정비된 ! well-organized
+어디에나 있다 ! be all over the place
+어디에 있든 ! wherever you are
+주변 지역 ! the surrounding area
+겁이 나는 ! intimidating
+직관적인 ! straightforward
+길을 잃다 ! get lost
+교통 카드 ! transportation card
+여러 번 반복해서 ! over and over again
+
 `;
