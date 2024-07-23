@@ -186,6 +186,26 @@ Day11. 대중교통
 타도시 ! different city
 이동수단 ! means of transportation
 
+Day15. Air Travel 항공편이용
+비행기에 탑승하다 ! board a plane (=get on the plane)
+~을 찾아가다 ! find one’s way to
+기내 휴대용 가방 ! carry-on suitcase
+기내 짐칸 ! overhead bin
+안전벨트를 메다 ! buckle up (=fasten one's seatbelt)
+안전 수칙 시범을 보이다 ! give a safety demonstration
+이륙하다 ! take off
+지나가다 ! come by
+음료 키트 ! beverage cart
+기내식 ! in-flight meal
+면세품 쇼핑 ! duty-free shopping
+놓치기 아깝다 ! be too good to miss
+난기류를 경험하다 ! experience some turbulence
+많이 흔들리다 ! shake a lot
+긴장하다 ! tense up
+안전벨트 표시등을 켜다 ! turn on the seatbelt sign
+정상으로 돌아오다 ! come back to normal
+제시간에 도착하다 ! arrive on time
+
 Day12. 지하철
 ~의 모범 사례다 ! be a model of
 대중교통 ! public transportation
